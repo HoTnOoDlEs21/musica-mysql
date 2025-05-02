@@ -65,7 +65,8 @@ JOIN generos g ON m.generos_generoID = g.generoID
 WHERE m.musicaTitulo LIKE "Walk of Life";
 ```
 
-🧠 Objetivos Educativos
+## 🧠 Objetivos Educativos
+
 Este projeto teve como objetivos:
 
 -   Aplicar modelação relacional (MER → MR → SQL)
@@ -76,6 +77,7 @@ Este projeto teve como objetivos:
 
 -   Praticar a exportação/importação de bases de dados com .sql
 
-👤 Autor
+## 👤 Autor
+
 José Carlos Gonçalves
 GitHub – @HoTnOoDlEs21
